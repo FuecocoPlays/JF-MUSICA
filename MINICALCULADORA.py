@@ -1,12 +1,18 @@
 #1 - Somar dois números
+
 #2 - Multiplicar dois números
+
 #3 - Sair
 
 
 versao = ("                              11                                   ").replace(" ", "")
+
 pergunta = ("")
+
 A = ("")
+
 B = ("")
+
 X = ("")
 
 
